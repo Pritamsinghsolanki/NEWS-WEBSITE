@@ -3,7 +3,7 @@
     "version":2,
     "builds":[
         {
-          "src":"./express.js",
+          "src":"./script.js",
           "use":"@verecel/node"
         }
     ],
